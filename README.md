@@ -1,7 +1,9 @@
 # Google Contacts Sync
 
 Created on: Jul 2, 2023
+
 Author: vpatel9202, Assisted by: OpenAI Chatbot
+
 Project discussion: [ChatGPT link will be added later]
 
 ## Project Description
