@@ -1,0 +1,7 @@
+# .github/workflows/main.yml
+# Created on: Jul 2, 2023
+# Author: vpatel9202, Assisted by: OpenAI Chatbot
+# Link: <insert-link-to-this-chat>
+
+# This YAML file defines the workflow for GitHub Actions to run the Google Contacts syncing script.
+# It sets up the job, defines the steps, and configures the environment for running the script.
