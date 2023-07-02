@@ -1,4 +1,3 @@
-# GoogleContactsSync
 # Google Contacts Sync
 
 Created on: Jul 2, 2023
